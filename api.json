@@ -1,3 +1,10 @@
 {
-  "api_url": "https://flux.maxproturk.xyz/app/baglan/GetAppApi.php/"
+  "panel_url": "https://calmaenadiorosbucocugu.fluxmaxturkiye.workers.dev/data/get/fluxmaxgetapi.php",
+  "versiyon": "22.0",
+  "bakim_kontrol": "Edilmesin",
+  "bakim_text": "Uygulama sunucularımızda planlı bir bakım çalışması yürütülmektedir. Lütfen daha sonra tekrar deneyiniz.",
+  "update_text": "test",
+  "duyurumetni": "Güvenliğiniz için uygulamayı kimseyle paylaşmayınız.",
+  "iptv_url": "https://fluxmaxiptv25.gleeze.com/sorgula",
+  "apk_link": "https://fluxmaxindir.webredirect.org/login.php"
 }
